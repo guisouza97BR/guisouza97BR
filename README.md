@@ -3,6 +3,7 @@
 - 🌱 Atualmente minha linguagem principal é Python (a qual estou estudando e buscando domínimo)
 - 📚 Estudando Git/Github para entender sobre versionamento / Flask e MySQL
 - 📫 Caso queira entrar em contato comigo, meu email é gui.gafs@hotmail.com
+- Tentando mudar de área e trabalhar com programação e ciencia de dados
 
 <!---
 guisouza97BR/guisouza97BR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
